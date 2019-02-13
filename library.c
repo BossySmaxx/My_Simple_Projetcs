@@ -1,3 +1,6 @@
+//Created By BossySmaxx teh Ruler of the World...
+// Allrights are Reserved to DedSec.inc 
+//Founded by Aniket_Chauhan & Nitish_Jamwal
 #include<string.h>
 #include<stdio.h>
 #include<stdlib.h>
