@@ -1,2 +1,2 @@
 # SdtuDB
-Studebt sDatabse
+Students' Databse
